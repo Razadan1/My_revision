@@ -50,3 +50,5 @@ done`
 Step 9: You can now type betty file_name to run the betty linter
 
 Then your codes will be checked and if any violation occurs it is flagged by betty.
+
+To know more about betty, you can visit this site [Dr Obed explanation on betty](https://blog.ehoneahobed.com/betty-styles-for-c-programming-explained)
