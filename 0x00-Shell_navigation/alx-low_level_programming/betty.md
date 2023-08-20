@@ -1,7 +1,7 @@
 # BETTY
 👋 Hi there!!!. Let's discuss **betty**
 
-## What is Betty?
+## What is Betty? 🤔
 Betty is a code checker. It checks if our codes are intact.
 Betty also refers to **betty-style**, it is a tool that helps programmers adhere to coding rules and styles and it is a set of guidelines and conventions used in writing codes. It is also related to the **Linux Kernel Coding Style**, it is designed to ensure consistent and readable code.
 Betty is a script that runs against source code files to automatically check for violations of the coding rules and styles.
