@@ -24,7 +24,7 @@ Installing betty is very simple and doesn't take time.
 - Step 5: Install the linter with 'sudo ./install.sh' on your terminal
 - step 6: Create a new file called betty and copy the script below
 
-`#!/bin/bash
+#!/bin/bash
 
 \# Simply a wrapper script to keep you from having to use betty-style
 
@@ -44,9 +44,9 @@ BETTY_DOC="betty-doc"
 
 if [ "$#" = "0" ]; then
 
-\    echo "No arguments passed."
+    echo "No arguments passed."
     
-\    exit 1
+    exit 1
 
 
 fi
@@ -60,7 +60,7 @@ for argument in "$@" ; do
     
     ${BIN_PATH}/${BETTY_DOC} "$argument"
 
-done`
+done
 
 - Step 7: Once saved, exit the file and change permission to apply to all users with 'chmod a+x betty'
 - Step 8: Move the betty file into /bin/ or somewhere else in your $PATH with 'sudo mv betty /bin/'
