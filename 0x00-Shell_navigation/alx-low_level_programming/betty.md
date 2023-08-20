@@ -44,9 +44,9 @@ BETTY_DOC="betty-doc"
 
 if [ "$#" = "0" ]; then
 
-    echo "No arguments passed."
+\    echo "No arguments passed."
     
-    exit 1
+\    exit 1
 
 
 fi
@@ -54,11 +54,11 @@ fi
 
 for argument in "$@" ; do
 
-    echo -e "\n========== $argument =========="
+\    echo -e "\n========== $argument =========="
     
-    ${BIN_PATH}/${BETTY_STYLE} "$argument"
+\    ${BIN_PATH}/${BETTY_STYLE} "$argument"
     
-    ${BIN_PATH}/${BETTY_DOC} "$argument"
+\    ${BIN_PATH}/${BETTY_DOC} "$argument"
 
 done`
 
