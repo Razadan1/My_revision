@@ -1,6 +1,7 @@
 # ALX low-level programming
 :wave: Hi there, in this Repo we will be learning and working on C programming.
 We will also go through:
+- **GCC "Compiler"**
 - **C Programming "Hello World"**
 - **Betty**
 - **C variables.** : If, else, while
