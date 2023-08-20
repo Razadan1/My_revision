@@ -9,4 +9,4 @@ We will also go through:
 - **More Functions, more nested loops**
 - **Debugging**
 
-Go through the directories and see what C is and how exciting 
+Go through the directories and see what C is and how exciting it is !!! 😊
