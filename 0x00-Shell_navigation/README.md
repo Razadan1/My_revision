@@ -5,8 +5,8 @@ In this Repo, I will explain what a shell is, and how we navigate the shell envi
 # What is a shell?
 A shell is a tool or a command-line interface that we use in communicating and interacting with the computer operating system by entering commands. It allows us to carry out different tasks, manage files and directories, run programs, and perform system administration tasks. They are also called Terminal.
 ## Types of Shell
-There are different types of shells and they are:
-Bash (Bourne Again shell), Zsh (Z shell), Fish (Friendly Interactive shell), Csh (C shell), Tcsh (TENEX C shell), PowerShell, and so on.
+#### There are different types of shells and they are:
+***Bash (Bourne Again shell), Zsh (Z shell), Fish (Friendly Interactive shell), Csh (C shell), Tcsh (TENEX C shell), PowerShell***, and so on.
 - **Bash (Bourne Again Shell)**: Bash is one of the most widely used shells in Unix-like operating systems. It's the default shell on many Linux distributions and macOS. It offers a rich set of features, scripting capabilities, and extensive support in the open-source community.
 - **Zsh (Z Shell)**: Zsh is another popular shell that builds upon features from Bash and other shells. It offers advanced tab completion, spelling correction, and customization options, making it a favorite among power users.
 - **Fish (Friendly Interactive Shell)**: Fish is designed to be user-friendly and easy to use. It provides color highlighting, intelligent tab completion, and a pleasant user interface.
