@@ -51,4 +51,5 @@ touch: Create an empty file.
 - grep "search_text" file_name: Searches for the specified text within the given file.
 
 These are just a few basic commands for shell navigation. Each shell may have its own command, variation, or additional features. Using these commands and techniques, you can easily and effectively navigate and manage the file system within a shell environment.
+
 Note: All commands should be in lowercase as the shell is case-sensitive.
