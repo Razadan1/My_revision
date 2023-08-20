@@ -1,2 +1,2 @@
-This is my revision Repository.
-When you go through this repo, Please know that all the projects here are done by myself without any assistance and I learnt them from ALX SE program.
+This is my repository for revisions.
+As you peruse this repository, please be aware that all projects included were completed solely by me and without any assistance. I acquired the knowledge and skills necessary to complete these projects through the ALX SE program.
