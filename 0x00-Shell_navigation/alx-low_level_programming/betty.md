@@ -17,7 +17,7 @@ The guidelines betty covers are:
 ## Installing betty
 Installing betty is very simple and doesn't take time.
 ### Steps to installing betty
-- Step 1: Have a betty repo in which it is licensed and all rules are intact. If you don't have any you click on [betty](https://github.com/alx-tools/Betty)
+- Step 1: Have a betty repo in which it is licensed and all rules are intact. If you don't have any, you click on [betty](https://github.com/alx-tools/Betty)
 - Step 2: Go to the betty repository.
 - Step 3: Clone the betty repo to your local machine.
 - Step 4: cd into your betty directory.
