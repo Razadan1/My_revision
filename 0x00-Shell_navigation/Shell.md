@@ -1,6 +1,6 @@
 # SHELL & SHELL NAVIGATION
 👋Hi there !!!. Welcome to my first ALX project (0x00-Shell, navigation)
-In this Repo, I will explain what a shell is, and how we navigate the shell environment.
+In this file, I will explain what a shell is, and how we navigate the shell environment.
 
 # What is a shell?
 A shell is a tool or a command-line interface that we use in communicating and interacting with the computer operating system by entering commands. It allows us to carry out different tasks, manage files and directories, run programs, and perform system administration tasks. They are also called Terminal.
