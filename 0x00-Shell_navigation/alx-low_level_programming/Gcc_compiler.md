@@ -33,8 +33,12 @@ It takes human-readable code written in programming languages like C, C++, Java,
 Once the compilation process is complete, the resulting executable file can be executed directly by the computer's CPU without the need for the original source code. This allows software developers to create programs in higher-level languages while still benefiting from the efficiency and speed of machine-level execution.
 
 In addition to compilers, Interpreters typically read and execute code line by line, which can make them slower compared to compiled programs but also provides more flexibility in terms of debugging and dynamic behavior.
-
-
+#### Steps to form an Executable file in C
+1. **Preprocessing**: The preprocessor stage involves handling directives like #include, #define, and conditional compilation.
+To Run the preprocessor you need to use this command 'gcc -E filename.c -o filename'
+The '-E' command is used to execute the file in the preprocessing stage.
+1. **Compilation**: The compilation stage is converting the processed code into the assembly code.
+To run the compilation stage, you use this syntax 'gcc -S filename.c -o filname.o
 
 
 
