@@ -34,13 +34,13 @@ Once the compilation process is complete, the resulting executable file can be e
 
 In addition to compilers, Interpreters typically read and execute code line by line, which can make them slower compared to compiled programs but also provides more flexibility in terms of debugging and dynamic behavior.
 #### Steps to form an Executable file in C
-##### 1. **Preprocessing**: The preprocessor stage involves handling directives like #include, #define, and conditional compilation.
+1. **Preprocessing**: The preprocessor stage involves handling directives like #include, #define, and conditional compilation.
 To Run the preprocessor you need to use this command 'gcc -E filename.c -o filename'
 The '-E' command is used to execute the file in the preprocessing stage.
-##### 1. **Compilation**: The compilation stage is converting the processed code into the assembly code.
+1. **Compilation**: The compilation stage is converting the processed code into the assembly code.
 To run the compilation stage, you use this syntax 'gcc -S filename.c -o filname.o
-##### 1. Assembler: An assembler is a tool that converts assembly language code into machine code, which is the binary representation of instructions that a computer's CPU can understand and execute. Assemblers perform a critical role in the software development process, as they bridge the gap between human-readable assembly code and the machine-executable code.
-##### 1. **Linking**: Linking is the final step in creating an executable file.
+1. Assembler: An assembler is a tool that converts assembly language code into machine code, which is the binary representation of instructions that a computer's CPU can understand and execute. Assemblers perform a critical role in the software development process, as they bridge the gap between human-readable assembly code and the machine-executable code.
+1. **Linking**: Linking is the final step in creating an executable file.
 It involves combining one or more object files along with any necessary libraries to create a single executable file. The linker (also part of the compiler toolchain) performs this task.
 Linking combines object files and libraries, resolves references, and creates the final executable.
 These three steps together take your C source code through a series of transformations, resulting in an executable program that can be run on your computer.
